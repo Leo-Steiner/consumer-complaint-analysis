@@ -117,7 +117,7 @@ The notebook generates:
 
 ## Project links
 
-- [GitHub repository](https://github.com/Leo-Steiner/Project-Task-1-iu-nlp-consumer-complaints-)
+- [GitHub repository](https://github.com/Leo-Steiner/consumer-complaint-analysis.git)
 - [Kaggle notebook](https://www.kaggle.com/code/leosteiner0/notebookf59b1fdbbe)
 - [Kaggle dataset](https://www.kaggle.com/datasets/selener/consumer-complaint-database)
 
