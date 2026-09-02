@@ -126,6 +126,8 @@ The notebook generates:
 Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). Latent Dirichlet
 allocation. *Journal of Machine Learning Research, 3*, 993–1022.
 
+Consumer Financial Protection Bureau. (2019). Consumer complaint database [Data set]. Kaggle. Retrieved August 3, 2026, from https://www.kaggle.com/datasets/selener/consumer-complaint-database
+
 Greene, D., O'Callaghan, D., & Cunningham, P. (2014). How many topics?
 Stability analysis for topic models. In *Machine Learning and Knowledge
 Discovery in Databases* (pp. 498–513). Springer.
