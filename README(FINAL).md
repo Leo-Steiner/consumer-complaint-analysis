@@ -167,7 +167,7 @@ skipped; the stability-based topic-count selection still runs.
 
 ## Project links
 
-- [GitHub repository](https://www.kaggle.com/code/leosteiner0/consumer-complaint-analysis)
+- [GitHub repository](https://github.com/Leo-Steiner/consumer-complaint-analysis.git)
 - [Kaggle notebook](https://www.kaggle.com/code/leosteiner0/consumer-complaint-analysis)
 - [Kaggle dataset](https://www.kaggle.com/datasets/selener/consumer-complaint-database)
 
