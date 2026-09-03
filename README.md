@@ -72,7 +72,7 @@ keeps the folder visible before the first result upload.
 
 ## Run online in Kaggle
 
-1. Open the [public Kaggle notebook](https://www.kaggle.com/code/leosteiner0/notebookf59b1fdbbe).
+1. Open the [public Kaggle notebook](https://www.kaggle.com/code/leosteiner0/consumer-complaint-analysis).
 2. Select **Copy & Edit** if necessary.
 3. Add the Consumer Complaint Database through **Add Input**.
 4. Use a standard CPU session and select **Restart Session**.
