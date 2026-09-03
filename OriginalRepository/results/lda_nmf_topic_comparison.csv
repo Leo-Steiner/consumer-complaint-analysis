@@ -1,3 +1,0 @@
-lda_topic_number,nmf_topic_number,ranked_top_word_agreement,lda_top_words,nmf_top_words,shared_words
-1,2,0.7197619047619048,"credit, report, account, debt, information, dispute, collection, remove, file, letter","report, credit, account, remove, debt, dispute, information, collection, bureau, inquiry","account, collection, credit, debt, dispute, information, remove, report"
-2,1,0.6722150072150073,"payment, loan, account, pay, bank, call, make, get, time, card","payment, pay, loan, call, make, bank, get, time, month, account","account, bank, call, get, loan, make, pay, payment, time"

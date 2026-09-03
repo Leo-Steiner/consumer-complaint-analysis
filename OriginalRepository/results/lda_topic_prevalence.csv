@@ -1,3 +1,0 @@
-topic_number,topic_label,prevalence,prevalence_percent,top_words
-2,Topic 2: payment / loan / account,0.5801936542285183,58.019365422851834,"payment, loan, account, pay, bank, call, make, get, time, card"
-1,Topic 1: credit / report / account,0.41980634577148324,41.98063457714832,"credit, report, account, debt, information, dispute, collection, remove, file, letter"
