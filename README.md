@@ -96,17 +96,17 @@ differences in word order and weighting.
 
 ### Topic-count stability
 
-![Topic-count selection using repeated subsample stability](results/model_evaluation(1).png)
+![Topic-count selection using repeated subsample stability](results/model_evaluation.png)
 
 ### Topic prevalence
 
-![LDA topic prevalence](results/lda_topic_prevalence(1).png)
+![LDA topic prevalence](results/lda_topic_prevalence.png)
 
 ![NMF topic prevalence](results/nmf_topic_prevalence.png)
 
 ### Agreement between LDA and NMF
 
-![LDA and NMF topic-agreement heatmap](results/lda_nmf_topic_overlap(1).png)
+![LDA and NMF topic-agreement heatmap](results/lda_nmf_topic_overlap.png)
 
 ## Repository structure
 
