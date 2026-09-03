@@ -1,0 +1,3 @@
+method,documents,features,nonzero_values,density_percent
+Bag of Words,10000,4415,509143,1.1532
+TF-IDF,10000,4415,509143,1.1532

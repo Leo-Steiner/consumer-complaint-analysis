@@ -1,0 +1,80 @@
+{
+  "project": "NLP Analysis of Consumer Complaints",
+  "student": "Leo Steiner",
+  "matriculation_number": "14130885",
+  "random_state": 42,
+  "dataset_path": "/kaggle/input/datasets/selener/consumer-complaint-database/rows.csv",
+  "source_rows": 1282355,
+  "sample_size_before_preprocessing": 10000,
+  "documents_after_preprocessing": 10000,
+  "count_features": 4415,
+  "tfidf_features": 4415,
+  "candidate_topic_numbers": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "stability_runs": 5,
+  "subsample_fraction": 0.8,
+  "selection_method": "Term-centric stability across repeated 80% subsamples, Hungarian topic matching and Average Jaccard ranked-word agreement",
+  "selected_number_of_topics": 2,
+  "maximum_combined_stability": 0.7813434065934066,
+  "comparable_score_tolerance": 0.015668887903927106,
+  "comparable_threshold": 0.7656745186894796,
+  "selected_lda_stability": 0.5811716616716617,
+  "selected_nmf_stability": 0.9815151515151515,
+  "selected_combined_stability": 0.7813434065934066,
+  "selected_topic_diversity": 0.925,
+  "final_lda_nmf_similarity": 0.695988455988456,
+  "lda_cv_coherence": 0.4810278228874343,
+  "nmf_cv_coherence": 0.5192310805582656,
+  "analysis_runtime_minutes": 24.86259424686432,
+  "lda_topics": [
+    {
+      "topic_number": 2,
+      "topic_label": "Topic 2: payment / loan / account",
+      "prevalence": 0.5801936542285183,
+      "prevalence_percent": 58.019365422851834,
+      "top_words": "payment, loan, account, pay, bank, call, make, get, time, card"
+    },
+    {
+      "topic_number": 1,
+      "topic_label": "Topic 1: credit / report / account",
+      "prevalence": 0.41980634577148324,
+      "prevalence_percent": 41.98063457714832,
+      "top_words": "credit, report, account, debt, information, dispute, collection, remove, file, letter"
+    }
+  ],
+  "nmf_topics": [
+    {
+      "topic_number": 1,
+      "topic_label": "Topic 1: payment / pay / loan",
+      "prevalence": 0.5619734140577797,
+      "prevalence_percent": 56.19734140577797,
+      "top_words": "payment, pay, loan, call, make, bank, get, time, month, account"
+    },
+    {
+      "topic_number": 2,
+      "topic_label": "Topic 2: report / credit / account",
+      "prevalence": 0.43802658594222027,
+      "prevalence_percent": 43.802658594222024,
+      "top_words": "report, credit, account, remove, debt, dispute, information, collection, bureau, inquiry"
+    }
+  ]
+}
