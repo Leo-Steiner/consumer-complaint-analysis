@@ -1,0 +1,21 @@
+# Python and Jupyter temporary files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environments and secrets
+.env
+.venv/
+venv/
+kaggle.json
+
+# Large source data must not be uploaded
+data/
+rows.csv
+complaints.csv
+consumer_complaints.csv
+
+# Archives and operating-system files
+*.zip
+.DS_Store
+Thumbs.db
