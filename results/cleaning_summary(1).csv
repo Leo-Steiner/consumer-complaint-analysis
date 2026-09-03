@@ -1,0 +1,9 @@
+measure,value
+Rows in source CSV,1282355
+Missing narratives removed,898791
+Duplicate narratives removed,16619
+Requested sample size,10000
+Sampled narratives,10000
+Narratives empty after preprocessing,0
+Narratives used for modelling,10000
+Random state,42
