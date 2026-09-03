@@ -140,7 +140,7 @@ results/
 
 ## Run the analysis
 
-1. Open the [Kaggle notebook](https://www.kaggle.com/code/leosteiner0/notebookf59b1fdbbe).
+1. Open the [Kaggle notebook](https://www.kaggle.com/code/leosteiner0/consumer-complaint-analysis).
 2. Select **Copy & Edit** if necessary.
 3. Attach the Consumer Complaint Database through **Add Input**.
 4. Use a standard CPU session.
@@ -167,8 +167,8 @@ skipped; the stability-based topic-count selection still runs.
 
 ## Project links
 
-- [GitHub repository](https://github.com/Leo-Steiner/Project-Task-1-iu-nlp-consumer-complaints-)
-- [Kaggle notebook](https://www.kaggle.com/code/leosteiner0/notebookf59b1fdbbe)
+- [GitHub repository](https://www.kaggle.com/code/leosteiner0/consumer-complaint-analysis)
+- [Kaggle notebook](https://www.kaggle.com/code/leosteiner0/consumer-complaint-analysis)
 - [Kaggle dataset](https://www.kaggle.com/datasets/selener/consumer-complaint-database)
 
 ## References
